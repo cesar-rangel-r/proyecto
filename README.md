@@ -1,31 +1,38 @@
-# DataFlow-Pro: Optimización de Procesos 🚀
+# 🎫 SmartTicket-AI: Reingeniería del Flujo de Requerimientos mediante NLP
 
-![Status](https://img.shields.io/badge/Status-En%20Desarrollo-green)
-![Category](https://img.shields.io/badge/Categoria-Ingenier%C3%ADa%20de%20Procesos-blue)
+![Status](https://img.shields.io/badge/Status-Fase%20de%20Pruebas-green)
+![Category](https://img.shields.io/badge/Categoria-Ingenier%C3%ADa%20de%20Procesos%20/%20IA-blue)
+![Stack](https://img.shields.io/badge/Stack-Python%20|%20C++%20|%20VBA-red)
 
-## 📌 Descripción
-Este repositorio contiene la documentación, diagramas y scripts necesarios para la implementación del proyecto **DataFlow-Pro**. El sistema está diseñado para transformar procesos manuales de gestión de datos en flujos de trabajo automatizados y eficientes.
+## 📌 1. Introducción y Propósito
+Este repositorio contiene el ecosistema **SmartTicket-AI**, un agente de inteligencia artificial diseñado para la clasificación y enrutamiento automatizado de solicitudes corporativas. El proyecto utiliza técnicas avanzadas de **Procesamiento de Lenguaje Natural (NLP)** para eliminar los cuellos de botella en la recepción de información, garantizando que cada mensaje llegue al experto adecuado en tiempo récord.
 
-## 🎯 Objetivos
-- **Optimizar:** Reducir tiempos de procesamiento.
-- **Automatizar:** Eliminar la carga manual de datos.
-- **Escalar:** Permitir el manejo de grandes volúmenes de información de manera estable.
+## 🎯 2. Objetivos de Ingeniería
+- **Automatización Total:** Reducción del 100% de la clasificación manual de tickets.
+- **Precisión Analítica:** Clasificación de solicitudes con un margen de error inferior al 3%.
+- **Priorización Basada en Sentimiento:** Escalado automático de casos críticos mediante análisis de tono y urgencia.
+- **Escalabilidad Operativa:** Capacidad para procesar miles de requerimientos diarios sin intervención humana.
 
-## 🛠️ Tecnologías Utilizadas
-- **Modelado:** BPMN 2.0
-- **Análisis:** Power BI / Excel Avanzado
-- **Desarrollo:** C++, Python, VBA
-- **Control de Versiones:** Git / GitHub
+## 🛠️ 3. Arquitectura Técnica
+El sistema opera bajo un modelo de tres capas diferenciadas:
+1. **Ingesta de Datos:** Scripts en **Python** que capturan datos de correos y formularios.
+2. **Motor de Inferencia:** Algoritmos de clasificación que analizan el texto y extraen entidades clave.
+3. **Distribución:** Lógica programada en **C++** y **VBA** que interactúa con las bandejas de entrada de cada departamento.
 
-## 📂 Estructura del Repositorio
-- `/docs`: Documentación detallada y manuales.
-- `/src`: Scripts de automatización.
-- `/tests`: Casos de prueba y resultados.
-- `/diagrams`: Mapas de proceso (AS-IS y TO-BE).
+## 📂 4. Estructura del Proyecto
+- `📁 /core_ai`: Modelos de lenguaje entrenados y lógica de clasificación.
+- `📁 /process_design`: Diagramas BPMN 2.0 que detallan la reingeniería del proceso.
+- `📁 /integration_tools`: Conectores para Outlook, Excel y bases de datos SQL.
+- `📁 /qa_testing`: Pruebas de estrés, matrices de confusión y registros de precisión.
+- `📁 /docs`: Documentación extensa del proyecto (3+ páginas de especificaciones técnicas).
 
-## 👥 Responsables
-- **Ingeniería:** [Tu Nombre/Cesar Rangel Rios]
-- **Soporte Técnico:** Equipo de Desarrollo Uniagustiniana
+## 📈 5. Metodología de Mejora Continua
+Implementamos **DMAIC (Define, Measure, Analyze, Improve, Control)** para asegurar que el sistema no solo funcione, sino que aprenda de cada interacción, mejorando su precisión mes a mes.
+
+## 👥 6. Equipo y Desarrollo
+- **Líder de Ingeniería:** Cesar Rangel Rios (Uniagustiniana).
+- **Colaboración:** Departamento de Sistemas y Computación.
 
 ---
-© 2026 - Ingeniería de Procesos Aplicada
+© 2026 - **División de Ingeniería de Procesos**  
+*Optimizando el futuro de la atención mediante Inteligencia Artificial.*da
