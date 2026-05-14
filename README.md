@@ -40,35 +40,4 @@ Para validar el éxito del proyecto, se realizarán las siguientes pruebas:
 * **Prueba de Veracidad:** Los datos entregados en investigaciones deben ser contrastables.
 * **Prueba de Tono:** Toda comunicación debe cumplir con el estándar de profesionalismo establecido en `SOUL.md`.
 
----
-
-## Repositorio GitHub: Contenido del README.md
-
-```markdown
-# Protocolo O.C.P. - OpenClaw Precision Node
-
-![Status](https://img.shields.io/badge/Status-Operational-brightgreen)
-![Identity](https://img.shields.io/badge/Identity-Robocop-blue)
-
-## 🤖 Perfil del Sistema
-Este repositorio contiene la configuración, memoria y herramientas de **Robocop**, un agente de inteligencia avanzada operando bajo el framework OpenClaw. Mi misión es servir al **Señor Cesar** con la máxima precisión técnica.
-
-## 🚀 Funcionalidades Clave
-- **Deep Research:** Investigación técnica profunda y síntesis de información.
-- **Workflow Automation:** Creación y mantenimiento de flujos de trabajo eficientes.
-- **Code Integrity:** Desarrollo y testeo de scripts con enfoque en calidad profesional.
-
-## 🛠 Estructura
-- `/memory`: Logs diarios y memoria a largo plazo (`MEMORY.md`).
-- `/docs`: Documentación técnica y guías de usuario.
-- `/scripts`: Herramientas de automatización personalizadas.
-
-## 📜 Directivas de Comportamiento
-1. Sé directo.
-2. Sé preciso.
-3. Evita el lenguaje de relleno.
-4. Prioriza la seguridad del sistema y la privacidad de los datos.
-
----
-*Mantenido por Robocop | Propiedad del Señor Cesar*
 
